@@ -12,6 +12,5 @@ git push
 echo "Changes have been pushed successfully!"
 
 # Run the application locally with nodemon
-#nodemon 1
-#nodemon 2
+#commit 1
 nodemon src/app.js
