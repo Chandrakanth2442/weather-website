@@ -13,4 +13,5 @@ echo "Changes have been pushed successfully!"
 
 # Run the application locally with nodemon
 #nodemon 1
+#nodemon 2
 nodemon src/app.js
